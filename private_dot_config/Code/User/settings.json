@@ -1,0 +1,135 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "sourcery.token": "user_EUPQpd1gnT4ZZUrCNQbIdWyCobU7EY1991xCuLNmx4ju0uJwQVcv_BUma9Y",
+  "git.autofetch": true,
+  "editor.rulers": [80, 100, 120],
+  "python.formatting.provider": "black",
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.autoSave": "afterDelay",
+  "files.exclude": {
+    "**/.DS_Store": false,
+    "**/.git": false,
+    "**/.hg": false,
+    "**/.svn": false,
+    "**/CVS": false,
+    "**/Thumbs.db": false
+  },
+  "cSpell.language": "en,en-US",
+  "workbench.startupEditor": "newUntitledFile",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "markdown.extension.list.indentationSize": "inherit",
+  "todo-tree.tree.showScanModeButton": false,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "workbench.colorTheme": "Monokai",
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "python.languageServer": "Pylance",
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter-notebook"
+  },
+  "todo-tree.general.tags": [
+    "BUG",
+    "HACK",
+    "FIXME",
+    "TODO",
+    "XXX",
+    "[ ]",
+    "[x]"
+  ],
+  "todo-tree.regex.regex": "(//|#|<!--|;|/\\*|^|^\\s*(-|\\d+.))\\s*($TAGS)",
+  "html.format.indentHandlebars": true,
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "left"
+  },
+  "editor.formatOnSave": true,
+  "editor.lineHeight": 20,
+  "powermode.enabled": true,
+  "powermode.presets": "flames",
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "[dockerfile]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "workbench.sideBar.location": "right",
+  "terminal.explorerKind": "external",
+  "terminal.external.linuxExec": "kitty",
+  "terminal.integrated.tabs.enabled": true,
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "terminal.integrated.fontFamily": "Cousine Nerd Font Mono",
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.enableBold": true,
+  "terminal.integrated.fontSize": 15,
+  "terminal.integrated.lineHeight": 1.1,
+  "terminal.integrated.rightClickCopyPaste": true,
+  "powermode.combo.location": "statusbar",
+  "powermode.combo.counterEnabled": "hide",
+  "powermode.combo.timerEnabled": "hide",
+  "powermode.shake.enabled": false,
+  "powermode.explosions.duration": 250,
+  "prettier.proseWrap": "always",
+  "json.schemas": [
+    {
+      "fileMatch": ["model-*_smdl.json"],
+      "url": "https://raw.githubusercontent.com/bids-standard/stats-models/gh-pages/BIDSStatsModel.json"
+    },
+    {
+      "fileMatch": ["CITATION.cff"],
+      "url": "https://raw.githubusercontent.com/citation-file-format/citation-file-format/main/schema.json"
+    }
+  ],
+  "files.insertFinalNewline": true,
+  "tabnine.experimentalAutoImports": true,
+  "window.zoomLevel": 1,
+  "cSpell.userWords": [
+    "autoclass",
+    "autofunction",
+    "automodule",
+    "Bunchs",
+    "datalad",
+    "datasink",
+    "deepmreye",
+    "fmap",
+    "fmriprep",
+    "fwhm",
+    "listify",
+    "literalinclude",
+    "miniconda",
+    "nbmake",
+    "neurodocker",
+    "Nipype",
+    "orthogonalized",
+    "phasediff",
+    "pybids",
+    "pytest",
+    "rtype",
+    "setuptools"
+  ],
+  "editor.inlineSuggest.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": true,
+    "markdown": true
+  },
+  "autoDocstring.docstringFormat": "sphinx",
+  "cSpell.dictionaryDefinitions": [
+  
+  ]
+}

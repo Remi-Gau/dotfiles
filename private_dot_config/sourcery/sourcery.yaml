@@ -1,0 +1,3 @@
+refactor:
+  skip:
+  - inline-immediately-returned-variable
